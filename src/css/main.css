@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:100');
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,300');
 
 :root {
 	magin: 0;
@@ -61,7 +61,8 @@ img {
 }
 
 footer {
-	font-family: 'Verdana', Tahoma, Arial, sans-serif;
+	font-family: 'Raleway', Tahoma, Arial, sans-serif;
+	font-weight: 300;
 	line-height: 25px;
 	text-align: center;
 }
